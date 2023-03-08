@@ -40,7 +40,7 @@ body{
     height: 407px;
     background: var(--blue);
     margin-left: -100px; 
-    transform: rotateZ(48deg);
+    transform: rotateZ(50deg);
     margin-top: -178px;
 }
 .perfil_img{
